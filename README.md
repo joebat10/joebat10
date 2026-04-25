@@ -92,4 +92,4 @@ Lab Microsoft Azure SOC + Honeynet avec Microsoft Sentinel SIEM et détection d'
 
 ## Contact
 
-📧 joebichall187@gmail.com · 📍 Douai (59500) · 🇬🇧 Anglais professionnel
+📧 joebichall187@gmail.com · 📍 Douai (59500) · 
