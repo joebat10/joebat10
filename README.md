@@ -7,7 +7,7 @@ Assistant RSSI @ Giphar Groupe · Mastère Bac+5 en cours · Ex-Administrateur S
 
 ## À propos
 
-Alternant en Master Manager en Infrastructures & Cybersécurité des SI, je dispose d'une expertise opérationnelle en audit de sécurité (Active Directory, EBIOS RM, ISO 27001), gouvernance du SI et administration systèmes. Je recherche mon premier CDI en cybersécurité ou infrastructures.
+Alternant en Master Manager en Infrastructures & Cybersécurité des SI, je dispose d'une expertise opérationnelle en audit de sécurité (Active Directory, EBIOS RM, ISO 27001), gouvernance du SI et administration systèmes et réseaux. Je recherche mon premier CDI en cybersécurité ou infrastructuresdes systemes d'informationbs.
 
 ---
 
